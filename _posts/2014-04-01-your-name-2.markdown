@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Your Name"
+date:   2014-04-01 13:26:34
+categories: mfa
+image: /imgs/magda.jpg
+---
+<img class="img-responsive" src="/imgs/your-img.jpg">
+<p class="lead">Hi I'm.... </p>

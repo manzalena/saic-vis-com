@@ -1,1 +1,11 @@
-hello there world!
+---
+layout: default
+title: Visual Communication Design
+heading: MFA Students at the School of the Art Institute of Chicago. Class of 2014
+---
+
+
+    {% for post in site.posts %}
+       <div class="col-md-3"><img class="img-responsive" src="{{post.image}}"><a href="{{ post.url }}">{{ post.title }}</a></div>
+    {% endfor %}
+
