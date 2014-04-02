@@ -11,7 +11,7 @@ body {
   transition: all 0.4s ease 0s;
 }
 
-a{	color:#000000;
+a{	color:#0040FF;
 	text-decoration:none;
 }
 
@@ -25,9 +25,30 @@ h1{
 	color:#0040FF;
 }
 h1:hover{
-	color:#a3a3a3;
+	color:#FFEE00;
 }
 
 p{
-	color:#a3a3a3;
+	color:#0040FF;
 }
+p:hover{
+	color:#0040FF;
+	background:#FFEE00;
+}
+
+.navbar-default{
+	border-style:none;
+	text-decoration:none;
+}
+.navbar a{
+color:#FFFFFF;	
+}
+.navbar a:hover{
+background:#FFEE00;	
+}
+
+.img-responsive{
+  display: block;
+  max-width: 100%;
+  margin:0 auto;
+  height: auto;
