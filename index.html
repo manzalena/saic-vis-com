@@ -4,8 +4,9 @@ title: Visual Communication Design
 heading: MFA Students at the School of the Art Institute of Chicago. Class of 2014
 ---
 
-
+<div class="col-md-8 col-md-offset-2">
     {% for post in site.posts %}
-       <div class="col-md-3"><img class="img-responsive" src="{{post.image}}"><a href="{{ post.url }}">{{ post.title }}</a></div>
+       <div class="col-sm-3"><a href="{{ post.url }}"><img class="img-responsive" style="padding:10px" src="{{post.image}}"></a><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endfor %}
+</div>
 
