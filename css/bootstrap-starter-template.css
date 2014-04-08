@@ -11,35 +11,35 @@ body {
   transition: all 0.4s ease 0s;
 }
 
-a{	color:#0040FF;
+a{	color:#949494;
 	text-decoration:none;
 }
 
 a:hover{
 	color:#FFFFFF;
-	background:#0040FF;
+	background:#52FF75;
 	text-decoration:none;
 }
 
 h1{
-	color:#0040FF;
+	color:#949494;
 }
 h1:hover{
 	color:#FFEE00;
 }
 h4{
-	color:#0040FF;
+	color:#949494;
 }
 h4:hover{
 	color:#FFEE00;
 }
 
 p{
-	color:#0040FF;
+	color:#949494;
 }
 p:hover{
-	color:#0040FF;
-	background:#FFEE00;
+	color:#FF52DC;
+
 }
 
 .navbar-default{
@@ -50,7 +50,7 @@ p:hover{
 color:#FFFFFF;	
 }
 .navbar a:hover{
-background:#FFEE00;	
+background:#52FF75;	
 }
 
 .img-responsive{
