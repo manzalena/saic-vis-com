@@ -12,13 +12,10 @@ website: http://cargocollective.com/zqo
 </row>
 
 <h1>Tiny Thinking Typophilic Tinkerer</h1>
-<p class="lead">I am a procrastinator--leader of tomorrow. I wish I had better memory.</p>
-<p class="lead"><b>Hometown:</b> Singapore</p>
+<p class="lead">As a visual communicator, I create work that resonates with a public audience—the concern for accessibility drives my preference for working with media that favor mass dissemination, particularly print multiples and books. In my practice, the materiality of the medium is utilized to its potential as I investigate the active interplay between form(at) and content, which I believe should work together to strengthen communication.</p>
 <a href="http://cargocollective.com/zqo"><p class="lead">Portfolio</p></a>
 
-<div class="row">
-	<img class="img-responsive" style="padding:20px"  src="/imgs/zq_1.jpg">
-</row>
+
 <div class="row">
 	<img class="img-responsive"style="padding:20px"  src="/imgs/zq_3.jpg">
 </row>
@@ -33,5 +30,8 @@ website: http://cargocollective.com/zqo
 </row><br>
 <div class="row">
 	<img class="img-responsive" style="padding:20px"  src="/imgs/zq_2.jpg">
+</row>
+<div class="row">
+	<img class="img-responsive" style="padding:20px"  src="/imgs/zq_1.jpg">
 </row>
 
