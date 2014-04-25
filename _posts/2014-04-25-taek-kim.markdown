@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Taek Hyun Kim"
+date:   2014-04-25 10:29:34
+categories: mfa
+image: /imgs/taek-th.jpg
+website: 
+
+
+---
+
+<div class="row">
+	<img class="img-responsive" style="padding=20px" src="/imgs/taek-1.jpg">
+</row>
+<p class="lead"></p>
+<br>
+<h1>Contact</h1>
+<a href="tkim17@saic.edu?Subject=Hello" target="_top"><p class="lead">tkim17@saic.edu</p></a>

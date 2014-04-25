@@ -10,7 +10,7 @@ website: http://www.meghanmorris.com
 ---
 
 <div class="row">
-	<img class="img-responsive" style="padding=20px" src="/imgs/meghan-1.jpg">
+	<img class="img-responsive" style="padding=20px" src="/imgs/megan-1.jpg">
 </row>
 <p class="lead">Web-based, experimental, hypertext narratives.</p>
 <br>

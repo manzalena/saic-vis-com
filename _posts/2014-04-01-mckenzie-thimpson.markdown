@@ -9,9 +9,9 @@ website: http://mckenziethompson.com
 ---
 
 <div class="row">
-	<img class="img-responsive" style="padding=20px" src="/imgs/freddy-1.jpg">
+	<img class="img-responsive" style="padding=20px" src="/imgs/mck-1.jpg">
 </row>
-<p class="lead">I'm thinking about it.</p>
+<p class="lead"></p>
 <br>
 <h1>Contact</h1>
 <a href="http://mckenziethompson.com"><p class="lead">Portfolio</p></a>

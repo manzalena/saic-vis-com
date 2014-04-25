@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Yi Qu"
+date:   2014-04-25 9:58:35
+categories: mfa
+image: /imgs/yi-th.jpg
+website: http://yichyu.com
+
+
+---
+
+<div class="row">
+	<img class="img-responsive" style="padding=20px" src="/imgs/yi-1.jpg">
+</row>
+<p class="lead">Temporality changes when the author is removed. If we think about the author, there is a before and after the book. If we think about text only, it becomes an eternal entity, it is always here and now.</p>
+<br>
+<h1>Contact</h1>
+<a href="http://yichyu.com"><p class="lead">Portfolio</p></a>
+<a href="yqu@artic.edu?Subject=Hello" target="_top"><p class="lead">yqu@artic.edu</p></a>

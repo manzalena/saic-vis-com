@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Shu He"
+date:   2014-04-25 9:58:34
+categories: mfa
+image: /imgs/shu-th.jpg
+website: http://www.shuhe22.com/
+
+
+---
+
+<div class="row">
+	<img class="img-responsive" style="padding=20px" src="/imgs/shu-1.jpg">
+</row>
+<p class="lead">This is a poem from a daydream.</p>
+<br>
+<h1>Contact</h1>
+<a href="http://www.shuhe22.com/"><p class="lead">Portfolio</p></a>
+<a href="she2@artic.edu?Subject=Hello" target="_top"><p class="lead">she2@artic.edu</p></a>
